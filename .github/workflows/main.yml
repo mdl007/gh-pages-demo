@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - mainn
+      - main
     #paths-ignore:
      # - '.github/workflows/*'
   #pull_request:
